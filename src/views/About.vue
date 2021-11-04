@@ -14,10 +14,10 @@
     <div class="con_box">
       <div class="con_left">
         <ul>
-          <li><router-link to="/yidong"  class="sy">系统首页1</router-link></li>
-          <li><router-link to="/about/jbxx"  class="sy">基本信息2</router-link></li>
-          <li><router-link to="/gowuc"  class="sy">课程管理3</router-link></li>
-           <li><router-link to="/about"  class="sy">我的4</router-link></li>
+          <li><router-link to="/yidong"  class="sy">系统首页111</router-link></li>
+          <li><router-link to="/about/jbxx"  class="sy">基本信息222</router-link></li>
+          <li><router-link to="/gowuc"  class="sy">课程管理333</router-link></li>
+           <li><router-link to="/about"  class="sy">我的444</router-link></li>
         </ul>
       </div>
           <router-view />
